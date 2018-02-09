@@ -2,18 +2,13 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              <Brian> <Johnston>
+  email:             <brian.johnston96@gmail.com>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-    Open `_data/authors.yml` to edit this text.
-
+    
   # This photo will be used in the about section
   picture:
     path:            https://placehold.it/128x128
@@ -27,8 +22,8 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     twitter:         <username>
-    github:          <username>
-    # email:           mailto:<mail@domain.tld>
+    github:          <bjjohnston>
+    # email:           mailto:<brian.johnston96@gmail.com>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -57,8 +52,8 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
-    # xing:            <firstname_lastname_counter>
+    # linkedin:        <brian-lastname-string>
+    # xing:            <brian-johnston>
     # blogger:         <number>
     # delicious:       <username>
     # stumbleupon:     <username>
