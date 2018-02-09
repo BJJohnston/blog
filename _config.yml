@@ -27,14 +27,11 @@ title:                 Brian Johnston
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  A Jekyll theme with JavaScript powers. "Best Theme by a Mile".
-  Combines the best of static sites and modern web apps.
-  Open `_config.yml` to edit this text.
+  Brian Johnston is a third year Computer Science student at the university of Liverpool gradutating in July of 2018, interested in working within the Cyber Security field.
 
 # A shorter description for the sidebar.
 tagline:               >
-  A Jekyll theme with JavaScript powers.
-  Open `_config.yml` to edit this text.
+  lead: You don't learn to walk by following rules. You learn by doing, and by falling over. - Richard Branson
 
 # A list of keywords for your blog
 keywords:              []
@@ -45,8 +42,8 @@ logo:                  /assets/icons/icon.png
 # This should be the same author as first entry in `_data/authors.yml`.
 # Duplication is necessary due to the `jekyll-feed`, `jekyll-seo-tag` plugin.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                <Brian> <Johnston>
+  email:               <brian.johnston96@gmail.com>
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -226,10 +223,10 @@ plugins:
 
 # Used on index and about sites
 # social:
-#   name:                <firstname> <lastname>
+#   name:                <Brian> <Johnston>
 #   links:
 #     - https://twitter.com/<username>
-#     - https://github.com/<username>
+#     - https://github.com/<bjjohnston>
 
 
 # Other Plugins
